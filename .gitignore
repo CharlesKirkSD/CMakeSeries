@@ -9,5 +9,8 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+# Additional files and folders to exclude added to the CMake template
 *build*
 *.vscode*
+cmake_system-information.txt
